@@ -17,7 +17,7 @@ Installation de sox :
 
 ## Installation
 
-Il suffit de cloner le repository sur le poste. bwa bwa bwa
+Il suffit de cloner le repository sur le poste. 
 
 
 
